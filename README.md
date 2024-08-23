@@ -18,23 +18,15 @@ AWS와 AI 관련 공부를 하고 있습니다.
 <br>
 <br>
 <div>
-<h2>사용중인 기술</h2>
+<h2>사용중인 언어</h2>
 <h4><strong>Programming Language</strong></h4>
 <img src="https://img.shields.io/badge/-Python-%233776AB?style=plastic&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-R-%23276DC3?style=plastic&logo=r&logoColor=white">
-[Java]
-<h4>  </h4>
-<h4><strong>Data Engineering</strong></h4>
-<img src="https://img.shields.io/badge/-Apache%20Airflow-%23017CEE?style=plastic&logo=apacheairflow&logoColor=white">
-<h4>  </h4>
-<h4><strong>Frontend</strong></h4>
-<img src="https://img.shields.io/badge/-Svelte-%23FF3E00?style=plastic&logo=Svelte&logoColor=white">
+
 <h4>  </h4>
 <h4><strong>Backend</strong></h4>
 <img src="https://img.shields.io/badge/-FastAPI-%23009688?style=plastic&logo=fastapi&logoColor=white">
 <h4>  </h4>
 <h4><strong>DB</strong></h4>
-<img src="https://img.shields.io/badge/-MariaDB-%23003545?style=plastic&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white">
 <h4>  </h4>
@@ -50,14 +42,19 @@ AWS와 AI 관련 공부를 하고 있습니다.
 <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=plastic&logo=linux&logoColor=white">
 <h1></h1>
 <h4><strong>공부 예정</strong></h4>
+<img src="https://img.shields.io/badge/-Svelte-%23FF3E00?style=plastic&logo=Svelte&logoColor=white">
+<p> </p>
+<img src="https://img.shields.io/badge/-R-%23276DC3?style=plastic&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/-Scala-%23DC322F?style=plastic&logo=scala&logoColor=white">
   <p> </p>
 <img src="https://img.shields.io/badge/-Redis-%23DC382D?style=plastic&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/-MariaDB-%23003545?style=plastic&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=plastic&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/-Amazon%20RDS-%23527FFF?style=plastic&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/-Amazon%20S3-%23569A31?style=plastic&logo=amazons3&logoColor=white">
   <p> </p>
+<img src="https://img.shields.io/badge/-Apache%20Airflow-%23017CEE?style=plastic&logo=apacheairflow&logoColor=white">
 <img src="https://img.shields.io/badge/-Apache%20Spark-%23E25A1C?style=plastic&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/-Apache%20Hadoop-%2366CCFF?style=plastic&logo=apachehadoop&logoColor=white">
 <img src="https://img.shields.io/badge/-Apache%20Kafka-%23231F20?style=plastic&logo=apachekafka&logoColor=white">
